@@ -1,1 +1,1 @@
-# css-exercises
+Here i exercised all thre methods of addding CSS to an HTML:External/Internal/Inline
